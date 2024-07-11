@@ -1,2 +1,2 @@
-# Salman-Farid-BaburHut_Ecommerce_App
-This is an Ecommerce app created with flutter
+# BaburHut_Ecommerce_App
+This is an ecommerce app created with flutter
